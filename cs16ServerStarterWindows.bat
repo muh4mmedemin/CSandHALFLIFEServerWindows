@@ -1,0 +1,1 @@
+.\hlds.exe -console -insecure -game cstrike +ip 192.168.1.2 +port 27015 +map de_dust2 +maxplayers 15 +sv_lan 1

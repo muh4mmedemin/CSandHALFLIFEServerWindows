@@ -1,0 +1,1 @@
+.\hlds.exe -console -insecure -game valve +ip 192.168.1.2 +port 27015 +map crossfire +maxplayers 15 +sv_lan 1 +rcon_password "dark"
